@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='setup'/>
+        <page name='one'/>
+        <page name='two'/>
+        <page name='three'/>
+        <page name='four'/>
+        <page name='five'/>
+        <page name='six'/>
+        <page name='seven'/>
+        <page name='eight'/>
+        <page name='nine'/>
+        <page name='ten'/>
+        <page name='eleven'/>
+        <page name='altOne'/>
+        <page name='twelve'/>
+        <page name='13'/>
+    </pages>
+</playground>
