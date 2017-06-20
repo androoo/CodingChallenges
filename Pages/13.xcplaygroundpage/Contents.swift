@@ -2,7 +2,7 @@
 
 import Foundation
 
-// Run-length encoding
+// 13 - Run-length encoding
 
 // Write a function that accepts a string as input, then returns how often each letter is repeated in a single run, taking case into account.
 

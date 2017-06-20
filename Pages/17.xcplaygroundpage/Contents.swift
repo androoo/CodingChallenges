@@ -2,7 +2,7 @@
 
 import Foundation
 
-// Fizz Buzz
+// 17 - Fizz Buzz
 
 func fizzBuzz() {
     

@@ -2,7 +2,7 @@
 
 import Foundation
 
-// 14 - Reverse the word in a string 
+// 15 - Reverse the word in a string 
 
 // Return a string with each of its words reversed but in the same order without using a loop.
 

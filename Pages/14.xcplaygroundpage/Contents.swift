@@ -2,7 +2,7 @@
 
 import Foundation
 
-// 13 - String Permutations 
+// 14 - String Permutations 
 
 // Write a function athat prints all possible permutaitons of a given input string. 
 
